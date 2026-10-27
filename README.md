@@ -1,9 +1,6 @@
 # Listas-Enlazadas
 
 ##🚨🚨 Favor de descargar MyLinkedList 🚨🚨
-
-favor de descargar la biblioteca MyLinkedList por medio de este enlace
-
 Favor de descargar la biblioteca **MyLinkedList** por medio del siguiente enlace:
 [Repositorio de MyLinkedList](https://github.com/RodrigoSolis-567/MyLinkedList-biblioteca-propia.git)
 
